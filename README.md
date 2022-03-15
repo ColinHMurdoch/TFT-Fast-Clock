@@ -22,7 +22,7 @@ The completed project is shown in the accompanying photograph:
 
 ## Operation
 
-At startup the clock will calculate a start time based on either a) a coded start time (currently 6:00 a.m.) or b) a run time stored in the EEPROM (see item XXX) below.
+At startup the clock will calculate a start time based on either a) a coded start time (currently 6:00 a.m.) or b) a run time stored in the EEPROM (see item 2) below.
 
 The clock will start in a paused state and will display the speed rate factor (default = x 40).  Once any adjustemts have been made the clock can be started.  The usage of the six buttons are as below:
 
