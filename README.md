@@ -24,7 +24,7 @@ The completed project is shown in the accompanying photograph:
 
 At startup the clock will calculate a start time based on either a) a coded start time (currently 6:00 a.m.) or b) a run time stored in the EEPROM (see item 2) below.
 
-The clock will start in a paused state and will display the speed rate factor (default = x 40).  Once any adjustemts have been made the clock can be started.  The usage of the six buttons are as below:
+The clock will start in a paused state and will display the speed rate factor (default = x 4).  Once any adjustemts have been made the clock can be started.  The usage of the six buttons are as below:
 
 1. **Start** - Pressing this button will start the clock and the button text will change to **Pause**.  
 2. **Save** - Pressing this button will pause the clock and save the current time and Speed Factor to the EEPROM.  These figures will be used to initialise the clock on nextstartup.
