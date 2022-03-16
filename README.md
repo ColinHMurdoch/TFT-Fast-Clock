@@ -38,9 +38,6 @@ The clock will start in a paused state and will display the speed rate factor (d
 
 The project requires three libraries - Adafruit_GFX, Adafruit_Touchscreen and MCUFRIEND_kbv.  All three cn be installed from the Arduino IDE library manager.
 
-I have also generated two special fonts for the project which can be found in the Fonts folder in this repository.  These should be copied into the fonts folder in the Adafruit_GFX library once installed.
-
-
-
+I have also generated two special fonts for the project which can be found in the Fonts folder in this repository.  These should be copied into the fonts folder in the Adafruit_GFX library once installed. The file Arial9pt7b.h congtains a fullset of the Arial Font as used in Windows.  The file Arial48pt7b.h contains a large 48pt Arial font containing only charachters 0-9 and :.  This ised to display the time clock on the screen.  The full font was too large to fit into the Uno memory.
 
 
